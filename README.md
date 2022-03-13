@@ -9,6 +9,7 @@ The text is extracted from a 2012 digital scan from the Internet Archive. That s
 ## completed chapters
 
 * [Chapter I](./chapter-01.md)
+* [Chapter II](./chapter-02.md)
 
 ## transcription rules
 
