@@ -16,7 +16,7 @@ He then commanded that all persons should eat at public tables, and that those t
 
 I never can enough admire one part of the ceremony observed at them. When the company were assembled, the oldest man present, pointing to the door, said, "Not one word spoken here goes out there." This wise rule produced mutual confidence, and prevented all scandal, misrepresentation, and foolish or ill-natured prating.
 
-You will laugh when I tell you, that, at these public dinners, they served up a kind of soup called black broth, which the Spartans enjoyed very much, but which the people of other countries thought sad stuff. The truth was, the Spartans were healthy, and had good appetites, so that any food was acceptable to them.
+You will laugh when I tell you, that, at these public dinners, they served up a kind of soup called *black broth*, which the Spartans enjoyed very much, but which the people of other countries thought sad stuff. The truth was, the Spartans were healthy, and had good appetites, so that any food was acceptable to them.
 
 When you are hungry, you know, you can relish the plainest viands, just as they did their black broth.
 
