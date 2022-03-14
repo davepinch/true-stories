@@ -10,6 +10,8 @@ I told you that, after the sacking of [Troy](https://en.wikipedia.org/wiki/Troy)
 
 Rhea, however, happened to have twin sons; and as soon as Amulius heard of their birth, he ordered Rhea to be buried alive, and her children to be thrown into the [River Tiber](https://en.wikipedia.org/wiki/Tiber).
 
+![Romulus and Remus in a basket along the bank of the River Tiber. Amulius is standing nearby with a dog, ordering them off](./illustration-page-031.png)
+
 The poor babes were put into a basket accordingly, and placed by the water, that, when the river rose, it might carry them away and drown them. However, the infants were so light, that the basket floated and the children were saved. — Some say a wolf suckled them — an almost incredible thing; for wolves, you know, are remarkably fierce and bloodthirsty. Other writers relate, that the woman who preserved and nursed them was called Lupa; and, as Lupa is the Latin word for she wolf, this caused the mistake.
 
 Be that as it may, the two boys throve, and grew strong and bold. They were called [Romulus and Remus](https://en.wikipedia.org/wiki/Romulus_and_Remus): became shepherds, and were fond of hunting the wild beasts. At last, they were told of their high birth, and that, in right of their mother, they ought to be kings of the country. They therefore collected their friends, fought against their wicked uncle, and killed him: so that then their old grandfather Numitor came again to his throne. After forty-two years' exile, to be sure, he would be happy to return to his crown; and he would be proud to owe it to the bravery of his grandsons.
