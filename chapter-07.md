@@ -27,4 +27,4 @@ It was named Rome after him, was built in a square form, and contained one thous
 
 They had priests to perform religious ceremonies; for you will observe, as you read history, that the most rude and ignorant nations worship God, in some form or other, "believe in Him, fear Him, love Him."
 
-The Romans had also an army, composed of horse and foot soldiers ; and great numbers of men flocked to them from the little towns near Rome: thus every day the city increased in power and extent. About the time that Rome was founded, B.C. 753, [Sparta](https://en.wikipedia.org/wiki/Sparta) changed its form of government, and, instead of thirty senators; had only five magistrates, called *Ephori*.
+The Romans had also an army, composed of horse and foot soldiers; and great numbers of men flocked to them from the little towns near Rome: thus every day the city increased in power and extent. About the time that Rome was founded, B.C. 753, [Sparta](https://en.wikipedia.org/wiki/Sparta) changed its form of government, and, instead of thirty senators; had only five magistrates, called *Ephori*.
