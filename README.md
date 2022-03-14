@@ -18,6 +18,7 @@ The text is extracted from a 2012 digital scan from the Internet Archive. That s
 * [Chapter VIII](./chapter-08.md)
 * [Chapter IX](./chapter-09.md)
 * [Chapter X](./chapter-10.md)
+* [Chapter XI](./chapter-11.md)
 
 ## transcription rules
 
