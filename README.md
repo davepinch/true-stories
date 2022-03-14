@@ -14,6 +14,7 @@ The text is extracted from a 2012 digital scan from the Internet Archive. That s
 * [Chapter IV](./chapter-04.md)
 * [Chapter V](./chapter-05.md)
 * [Chapter VI](./chapter-06.md)
+* [Chapter VII](./chapter-07.md)
 
 ## transcription rules
 
