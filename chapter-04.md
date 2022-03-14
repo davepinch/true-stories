@@ -1,4 +1,4 @@
-## CHAPTER IV
+## CHAPTER IV.
 
 ### LYCURGUS, AND HIS LAWS.
 

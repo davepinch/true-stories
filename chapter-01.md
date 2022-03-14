@@ -1,6 +1,6 @@
 # TRUE STORIES
 
-## Chapter I
+## Chapter I.
 
 ### CREATION OF THE WORLD. THE DELUGE. BABYLON, IN CHALDEA.
 

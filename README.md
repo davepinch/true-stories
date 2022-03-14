@@ -6,16 +6,18 @@ This is an effort to convert and annotate the 1851 book True Stories from Ancien
 
 The text is extracted from a 2012 digital scan from the Internet Archive. That scan was made possible with funds from the University of North Carolina at Chapel Hill. The PDF can be found [here](./truestoriesfromastri.pdf).
 
-## completed chapters
+## transcribed chapters
 
 * [Chapter I](./chapter-01.md)
 * [Chapter II](./chapter-02.md)
 * [Chapter III](./chapter-03.md)
 * [Chapter IV](./chapter-04.md)
+* [Chapter V](./chapter-05.md)
 
 ## transcription rules
 
 * Preserve italics
 * Preserve spelling
-* Do not preserve line endings
-* Link to English Wikipedia
+* Preserve Æ instead of AE
+* Do not preserve line endings (convert to paragraphs)
+* Link to English Wikipedia once per chapter
