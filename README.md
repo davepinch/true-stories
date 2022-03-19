@@ -21,6 +21,7 @@ The text is extracted from a 2012 digital scan from the Internet Archive. That s
 * [Chapter XI](./chapter-11.md)
 * [Chapter XII](./chapter-12.md)
 * [Chapter XIII](./chapter-13.md)
+* [Chapter XIV](./chapter-14.md)
 
 ## transcription rules
 
