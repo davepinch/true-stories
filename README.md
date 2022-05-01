@@ -1,10 +1,10 @@
 # true stories from ancient history
 
-This is an effort to convert and annotate the 1851 book True Stories from Ancient History. The author of the book is alternately credited to Agnes Strickland or Marie E. Halsey Budden for reasons unknown.
+This is an effort to transcribe and annotate the 1851 book True Stories from Ancient History. The author of the book is alternately credited to Agnes Strickland or Marie E. Halsey Budden for reasons unknown.
 
 ## source
 
-The text is extracted from a 2012 digital scan from the Internet Archive. That scan was made possible with funds from the University of North Carolina at Chapel Hill. The PDF can be found [here](./truestoriesfromastri.pdf).
+The text is extracted from a 2012 digital scan from the Internet Archive. The scan was made possible with funds from the University of North Carolina at Chapel Hill. The PDF can be found [here](./truestoriesfromastri.pdf).
 
 ## transcribed chapters
 
@@ -22,6 +22,7 @@ The text is extracted from a 2012 digital scan from the Internet Archive. That s
 * [Chapter XII](./chapter-12.md)
 * [Chapter XIII](./chapter-13.md)
 * [Chapter XIV](./chapter-14.md)
+* [Chapter XV](./chapter-15.md)
 
 ## transcription rules
 
