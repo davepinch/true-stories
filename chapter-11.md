@@ -40,7 +40,7 @@ Thales lived to the advanced age of ninety-six years; and died respected for his
 
 You will observe that all wise and good persons are equally remarkable for truth. Indeed, there can be no virtue where there is no truth: none but fools and knaves condescend to be false and cunning.
 
-Pisistratus, an Athenian, desiring to gain power, wounded himself; then ran into the market-place, and said his enemies had hurt, him. Solon, with contempt, said to him, "Son of Hippocrates, you act Ulysses badly: he hurt himself to deceive his *enemies*; you have done so to cheat your *friends*."
+[Pisistratus](https://en.wikipedia.org/wiki/Pisistratus), an Athenian, desiring to gain power, wounded himself; then ran into the market-place, and said his enemies had hurt, him. Solon, with contempt, said to him, "Son of Hippocrates, you act Ulysses badly: he hurt himself to deceive his *enemies*; you have done so to cheat your *friends*."
 
 The populace being, as is generally the case, deaf to the voice of reason, Pisistratus became tyrant, or king, of Athens; and Solon retired to Cyprus, where he died at a good old age, A.C. 558, happy in the consciousness of having done much for his native country.
 
