@@ -2,7 +2,7 @@
 
 ### CONFUCIUS. CHINA.
 
-I HAVE already told you of two great lawgivers, [Lycurgus](https://en.wikipedia.org/wiki/Lycurgus_(lawgiver)) of [Sparta](https://en.wikipedia.org/wiki/Sparta), and [Solon](https://en.wikipedia.org/wiki/Solon) of Athens; I have now to tell you of a third, [Confucius](https://en.wikipedia.org/wiki/Confucius), the legislator of China. Confucius was born just before Solon died, when [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) was in the height of his power, and the prime of his life.
+I HAVE already told you of two great lawgivers, [Lycurgus](https://en.wikipedia.org/wiki/Lycurgus_(lawgiver)) of [Sparta](https://en.wikipedia.org/wiki/Sparta), and [Solon](https://en.wikipedia.org/wiki/Solon) of [Athens](https://en.wikipedia.org/wiki/Athens); I have now to tell you of a third, [Confucius](https://en.wikipedia.org/wiki/Confucius), the legislator of China. Confucius was born just before Solon died, when [Cyrus the Great](https://en.wikipedia.org/wiki/Cyrus_the_Great) was in the height of his power, and the prime of his life.
 
 The Chinese pretend that [Noah](https://en.wikipedia.org/wiki/Noah) (whom they call Fo-hee) settled in the north part of China, and that therefore their nation is derived from him; certain it is, that the empire of China is of high antiquity.
 
