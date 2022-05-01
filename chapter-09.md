@@ -2,7 +2,7 @@
 
 ### ATHENS. THESEUS.
 
-ATHENS was the most famous city in Greece. I have already told you that [Cecrops](https://en.wikipedia.org/wiki/Cecrops_I), with a colony from Egypt, built it a few years before [Sparta](https://en.wikipedia.org/wiki/Sparta) was founded.
+[ATHENS](https://en.wikipedia.org/wiki/Athens) was the most famous city in Greece. I have already told you that [Cecrops](https://en.wikipedia.org/wiki/Cecrops_I), with a colony from Egypt, built it a few years before [Sparta](https://en.wikipedia.org/wiki/Sparta) was founded.
 
 You must know, Greece is a large tract of country in the eastern corner of Europe; and formerly it was covered with cities, each of which had its territory. Of some of these cities you have already heard: Sparta was one of them, [Corinth](https://en.wikipedia.org/wiki/Ancient_Corinth) another, Argos another, and Athens, perhaps the most celebrated of them all. The country belonging to Athens was called [Attica](https://en.wikipedia.org/wiki/Attica).
 
