@@ -1,0 +1,25 @@
+## CHAPTER XVI.
+
+### BRUTUS MUTIUS SCÆVOLA. CORIOLANUS.
+
+I HAVE now to tell you a most pathetic story. You remember, the first two consuls of Rome were [Junius Brutus](https://en.wikipedia.org/wiki/Lucius_Junius_Brutus) and [Collatinus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Collatinus). Brutus had two sons, Titus and Tiberius: these youths engaged with others of the young nobility in a conspiracy to restore Tarquin to the throne. This conspiracy was discovered, by a slave, who informed the consuls of it. All the conspirators were directly taken, and, being put in chains, were condemned to be beaten, and then beheaded. It was the duty of the consuls to see the sentence carried into execution. What must have been the sufferings of Brutus to behold his two sons first bleeding with stripes, and then killed before his eyes! Dearly as he loved his children, he loved justice and his country more dearly. Severely as he deplored the fate of his sons, yet more severely he lamented their crime. Dreadful as it was to have them so die, yet more dreadful must it have been to him to know they deserved so to die! The people interceded for these two youths, and Collatinus was willing to listen to them; but Brutus firmly persisted in performing his duty.
+
+The Tarquins now fled for aid to [Porsenna](https://en.wikipedia.org/wiki/Lars_Porsena), king, of [Clusium](https://en.wikipedia.org/wiki/Clusium), in [Etruria](https://en.wikipedia.org/wiki/Etruscan_civilization), who advanced with a large army to Rome, and had very nearly entered it. The valor of one man saved the city. How often we have to remark the good caused by the valor or wisdom of an individual!
+
+[Horatius Cocles](https://en.wikipedia.org/wiki/Horatius_Cocles), seeing the enemy approach the bridge where he stood sentinel, and observing the Romans retreating, besought them to assist him, and to burn or break down the bridge behind him, whilst he went forward to keep back the enemy.
+
+Two of his friends stood by him while he was manfully stemming the fury of his foes; but he bade them retire just before the bridge was entirely removed. He then remained alone, fighting in the midst of his enemies; and, when he heard the crash of the bridge, and the shouts of the Romans, because all was demolished, and no way of entrance left for the foe, he jumped into the river, and swam over to his friends in safety.
+
+Another action, not so wonderful, but much more credible, was performed about this time.
+
+[Mutius Scaevola](https://en.wikipedia.org/wiki/Gaius_Mucius_Scaevola), a noble young Roman, went to the senate, and told them he was resolved to perform a great action, and desired leave to go to Porsenna's camp. Leave was granted; and, disguising himself, he hastened away, and entered the royal tent. There he saw a man so richly dressed, that, supposing he was the king, he killed him; but he was only a secretary. Pray think a little! Was there any greatness in stealing into even an enemy's tent to commit murder?
+
+When endeavoring to quit the camp, Mutius was seized and carried before Porsenna, who told him he would severely torture him, if he did not betray the schemes of the Romans. Mutius only answered by putting his hand into one of the fires lighted near him, and holding it steadily there. These fires had been lighted on purpose to increase his sufferings by burning or scorching. When Porsenna saw the courage and fortitude of this youth, he leaped from his throne, and, drawing the hand of Mutius from the flame, highly praised him, and dismissed him without further hurt.
+
+A little before the Athenians banished [Aristides](https://en.wikipedia.org/wiki/Aristides), the Romans exiled a great general of theirs, called [Coriolanus](https://en.wikipedia.org/wiki/Gnaeus_Marcius_Coriolanus). But Coriolanus acted differently from Aristides. He did not patiently submit to his fate, but went to the [Volsci](https://en.wikipedia.org/wiki/Volsci), a nation at war with Rome, and offered his services against his native city. As general of the Volscians, Coriolanus besieged and took many towns belonging to the Romans. At last, he attacked the city of Rome, and would have conquered it, had not his mother, with his wife, his children, and many matrons, gone out to him, and, kneeling before him, prayed to him until he promised to draw off his army.
+
+You see, Coriolanus had placed himself in a trying situation; he must either betray the Volsci, who trusted in him, or destroy the city in which he was born.
+
+If he had endured his unjust banishment with fortitude and patience, he would have escaped a trial, in which, whatever his decision, he must do wrong; he must either be treacherous or cruel. By departing from the line of duty, we not only commit one fault, but run the risk of committing many. The Volscians were so irritated at his conduct, that they assassinated him, B.C.
+
+The tribunes of the people were first created B. C. 493, just before Coriolanus rose into notice.

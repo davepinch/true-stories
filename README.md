@@ -23,6 +23,7 @@ The text is extracted from a 2012 digital scan from the Internet Archive. The sc
 * [Chapter XIII](./chapter-13.md)
 * [Chapter XIV](./chapter-14.md)
 * [Chapter XV](./chapter-15.md)
+* [Chapter XVI](./chapter-16.md)
 
 ## transcription rules
 
