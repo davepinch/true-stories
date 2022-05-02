@@ -1,6 +1,6 @@
 ## CHAPTER XV.
 
-# MARATHON. MILTIADES.
+### MARATHON. MILTIADES.
 
 It is curious that [Athens](https://en.wikipedia.org/wiki/Athens) should expel her tyrants, the Pisistratidae, (the two sons of [Pisistratus](https://en.wikipedia.org/wiki/Pisistratus),) just about the same time that Rome expelled the Tarquins. The cause, too, was nearly the same — the bad treatment of a woman. The sister of Harmodius was ill used by [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus_(brother_of_Hippias)), one of the Pisistratidae; [Harmodius and his friend Aristogiton](https://en.wikipedia.org/wiki/Harmodius_and_Aristogeiton) succeeded in delivering Athens from her tyrants, but unhappily died themselves, when engaged in destroying Hipparchus. [Hippias](https://en.wikipedia.org/wiki/Hippias_(tyrant)), the other brother, who tried to continue in power, arrested a beautiful woman, named Leona, who, as he thought, knew of the conspiracy, and ordered her to be tortured till she disclosed the truth. But this brave woman bore all her agony in silence; and at last, afraid that extreme pain might force her to speak, she bit off the end of her tongue, to prevent any such weakness, and died faithful to her friends — a noble instance of courage and fidelity.
 
