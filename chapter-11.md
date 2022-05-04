@@ -8,7 +8,7 @@ Draco did so; and these were the first written laws which history records. But t
 
 This was a strange way of talking; and Draco certainly showed neither mercy nor wisdom by such a remark. Laws are to prevent crimes as well as to punish them. A person chastised moderately for a small offence may be cured of his wickedness, and become virtuous and happy.
 
-Draco's laws were so very harsh that nobody liked to resort to them for the correction of errors and crimes: hence Athens was as badly off as if she had been without laws; and for many years disorder and licentiousness reigned.
+Draco's laws were so very harsh that nobody liked to resort to them for the correction of errors and crimes: hence [Athens](https://en.wikipedia.org/wiki/Athens) was as badly off as if she had been without laws; and for many years disorder and licentiousness reigned.
 
 One hundred and fifty years after the death of the stern Draco, the Athenians chose [Solon](https://en.wikipedia.org/wiki/Solon) for their archon, and entreated him to make them some just laws, A.C. 594.
 
