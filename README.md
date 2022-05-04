@@ -24,11 +24,13 @@ The text is extracted from a 2012 digital scan from the Internet Archive. The sc
 * [Chapter XIV](./chapter-14.md)
 * [Chapter XV](./chapter-15.md)
 * [Chapter XVI](./chapter-16.md)
+* [Chapter XVII](./chapter-17.md)
 
 ## transcription rules
 
 * Preserve italics
+* Preserve footnotes
 * Preserve spelling
-* Preserve Æ instead of AE
-* Do not preserve line endings (convert to paragraphs)
+* Preserve Æ/æ rather than transcribe as AE/ae
+* Do not preserve line endings (convert to paragraphs and remove hyphenation)
 * Link to English Wikipedia once per chapter
